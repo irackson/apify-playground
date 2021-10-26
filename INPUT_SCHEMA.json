@@ -11,7 +11,13 @@
             "default": "http://example.com/",
             "editor": "textfield",
             "prefill": "https://ianrackson.com/"
+        },
+        "customData": {
+            "title": "custom data",
+            "type": "object",
+            "description": "user data particular to scrape",
+            "editor": "json"
         }
     },
-    "required": []
+    "required": ["customData"]
 }
