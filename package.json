@@ -5,7 +5,7 @@
     "dependencies": {
         "apify": "^2.0.7",
         "cheerio": "^1.0.0-rc.10",
-        "node-fetch": "^2.6.1",
+        "node-fetch": "^3.1.1",
         "puppeteer": "*"
     },
     "scripts": {
